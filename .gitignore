@@ -1,0 +1,66 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / VS Code
+.vscode/
+*.csproj.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.userprefs
+
+# Rider / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Unity generated folders
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Aa]ssets/AssetStoreTools*
+[Aa]ssets/Plugins/
+[Aa]ssets/Editor Default Resources/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Crash reports
+sysinfo.txt
+*.stackdump
+
+# Packages / lock files (optional depending on preference)
+# Packages/manifest.json is usually tracked, keep it.
+# /Packages/packages-lock.json can be ignored if you don't want lockfile in git.
+# /ProjectSettings/ProjectVersion.txt is usually tracked.
+
+# Unity generated meta files are usually tracked, so do not ignore .meta by default.
+# Keep them if you want Unity scene/assets metadata under version control.
+
+# Secrets / env
+*.env
+.env*
+secrets.json
+apikeys.txt
+
+# Build output
+[Ll]egacyBuilds/
+[Ll]egacyBuild/
+
+# Optional: ignore generated asset caches
+[Ll]ibrary/PackageCache/
+[Ll]ibrary/SourceAssetDB/
+[Ll]ibrary/ScriptAssemblies/
