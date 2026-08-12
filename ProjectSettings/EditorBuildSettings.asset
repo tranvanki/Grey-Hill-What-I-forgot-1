@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Game/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Game/Scenes/MainMenuScene.unity
+    guid: fbb83721c87e6a7478ba489374fec6d4
+  - enabled: 1
+    path: Assets/Game/Scenes/HospitalScene.unity
+    guid: 84bb3b2566a6e134bba94c36dc15072a
+  - enabled: 1
+    path: Assets/Game/Scenes/NightmarePuzzle.unity
+    guid: c03087a67cccb4b4aa6f07b491e20d07
+  - enabled: 1
+    path: Assets/Game/Scenes/NightmareScene.unity
+    guid: 2b601e6a728072e48873a5af20228a15
+  - enabled: 1
+    path: Assets/FaycrestStudios/PixelHorrorHotel/Scenes/Entrance.unity
+    guid: 37cef718408f01346814a839c1372081
+  - enabled: 1
+    path: Assets/FaycrestStudios/PixelHorrorHotel/Scenes/Court_Yard.unity
+    guid: 7b27d7dd0a4f42b4abb3dd2b65483c6e
+  - enabled: 1
+    path: Assets/FaycrestStudios/PixelHorrorHotel/Scenes/Reception.unity
+    guid: 44f7873fe91c8ae409729f2acc5b5b69
+  - enabled: 1
+    path: Assets/FaycrestStudios/PixelHorrorHotel/Scenes/Corrider_Left.unity
+    guid: d28bbcc83306730499bd44db11b11483
+  - enabled: 1
+    path: Assets/FaycrestStudios/PixelHorrorHotel/Scenes/Room1.unity
+    guid: 640040c1b6cec304ead86b5d753869b5
+  - enabled: 1
+    path: Assets/FaycrestStudios/PixelHorrorHotel/Scenes/Room2.unity
+    guid: eca876cec5ea3204d8a0d698ae818343
+  - enabled: 1
+    path: Assets/Game/Scenes/CutsceneChap1.unity
+    guid: 041c9c2ad801ef24786e0f875331d1ef
+  - enabled: 1
+    path: Assets/FaycrestStudios/PixelHorrorHotel/Scenes/ElectricPuzzle2.unity
+    guid: ed4a2badb68080b44b597eefb2234ea0
+  - enabled: 1
+    path: Assets/FaycrestStudios/PixelHorrorHotel/Scenes/CutsceneChap2.unity
+    guid: 652653a8934a2a34ab7927357c4ce88f
+  - enabled: 1
+    path: Assets/FaycrestStudios/PixelHorrorHotel/Scenes/CutsceneChap3.unity
+    guid: afab70a4b81d79f4980badfd6c5ff87d
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: cb8b079917f74e8428e39a87a1d2ed27, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

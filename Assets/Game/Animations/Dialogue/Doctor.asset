@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6946cbc81283d2b49b0a4781a71d68a6, type: 3}
+  m_Name: Doctor
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: Doctor
+  npcPortrait: {fileID: 0}
+  dialogueLines:
+  - Hello there Mia, how are you?
+  - That's great to hear you are fine now. But you lost your short memory, this is
+    because you have occur an incident
+  - It's ok little sweetie. Take a rest now. You will go to a new home tomorrow.
+  typingSpeed: 0.05
+  autoProgressLines: 0100
+  autoProgressDelay: 2

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - FlashlightCone
+  - Monsteer
+  - Monster
+  - Flashlight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Monster
+  - Water
+  - UI
+  - Player
+  - Wall
+  - Wire
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 'Background  '
+    uniqueID: 775469923
+    locked: 0
+  - name: Floor
+    uniqueID: 2896142755
+    locked: 0
+  - name: Floor_Details
+    uniqueID: 2910890289
+    locked: 0
+  - name: Walls_Bottom
+    uniqueID: 204784561
+    locked: 0
+  - name: 'Objects_Ground '
+    uniqueID: 2350432383
+    locked: 0
+  - name: Characters
+    uniqueID: 1317377243
+    locked: 0
+  - name: Objects_Above
+    uniqueID: 39995179
+    locked: 0
+  - name: Walls_Top
+    uniqueID: 3825371949
+    locked: 0
+  - name: Roof
+    uniqueID: 678932261
+    locked: 0
+  - name: 'UI '
+    uniqueID: 1796550677
+    locked: 0
+  m_RenderingLayers:
+  - Default

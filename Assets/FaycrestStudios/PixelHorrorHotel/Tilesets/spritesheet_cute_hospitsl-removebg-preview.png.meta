@@ -1,0 +1,1665 @@
+fileFormatVersion: 2
+guid: 8d725728ac37e6d4580b9dc63bde61de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4940237141475256460
+    second: spritesheet_cute_hospitsl-removebg-preview_0
+  - first:
+      213: 4607187253060300595
+    second: spritesheet_cute_hospitsl-removebg-preview_1
+  - first:
+      213: 7816609652088264040
+    second: spritesheet_cute_hospitsl-removebg-preview_2
+  - first:
+      213: -1648974295749251922
+    second: spritesheet_cute_hospitsl-removebg-preview_3
+  - first:
+      213: -6942151609275971175
+    second: spritesheet_cute_hospitsl-removebg-preview_4
+  - first:
+      213: -6583594205402555233
+    second: spritesheet_cute_hospitsl-removebg-preview_5
+  - first:
+      213: -6810249475063499517
+    second: spritesheet_cute_hospitsl-removebg-preview_6
+  - first:
+      213: -3905809099456156856
+    second: spritesheet_cute_hospitsl-removebg-preview_7
+  - first:
+      213: 2667498967412906952
+    second: spritesheet_cute_hospitsl-removebg-preview_8
+  - first:
+      213: 9171162531530171706
+    second: spritesheet_cute_hospitsl-removebg-preview_9
+  - first:
+      213: 2710673475290253328
+    second: spritesheet_cute_hospitsl-removebg-preview_10
+  - first:
+      213: 6913600008287091125
+    second: spritesheet_cute_hospitsl-removebg-preview_11
+  - first:
+      213: 8545362113961146288
+    second: spritesheet_cute_hospitsl-removebg-preview_12
+  - first:
+      213: 5935167497507269632
+    second: spritesheet_cute_hospitsl-removebg-preview_13
+  - first:
+      213: -2004289166909025794
+    second: spritesheet_cute_hospitsl-removebg-preview_14
+  - first:
+      213: -7675396609407085981
+    second: spritesheet_cute_hospitsl-removebg-preview_15
+  - first:
+      213: -3471151815786868166
+    second: spritesheet_cute_hospitsl-removebg-preview_16
+  - first:
+      213: 8631141301465789071
+    second: spritesheet_cute_hospitsl-removebg-preview_17
+  - first:
+      213: 6046335113972714991
+    second: spritesheet_cute_hospitsl-removebg-preview_18
+  - first:
+      213: 1398491225672577845
+    second: spritesheet_cute_hospitsl-removebg-preview_19
+  - first:
+      213: -9098851494127047793
+    second: spritesheet_cute_hospitsl-removebg-preview_20
+  - first:
+      213: -5949780487331520478
+    second: spritesheet_cute_hospitsl-removebg-preview_21
+  - first:
+      213: -911439448943046000
+    second: spritesheet_cute_hospitsl-removebg-preview_22
+  - first:
+      213: 7335262047078272971
+    second: spritesheet_cute_hospitsl-removebg-preview_23
+  - first:
+      213: -4088654200949413054
+    second: spritesheet_cute_hospitsl-removebg-preview_24
+  - first:
+      213: -5796581518638894844
+    second: spritesheet_cute_hospitsl-removebg-preview_25
+  - first:
+      213: -8051619186137691610
+    second: spritesheet_cute_hospitsl-removebg-preview_26
+  - first:
+      213: -8585580409944900713
+    second: spritesheet_cute_hospitsl-removebg-preview_27
+  - first:
+      213: -6736720646306995727
+    second: spritesheet_cute_hospitsl-removebg-preview_28
+  - first:
+      213: 4382652575566053620
+    second: spritesheet_cute_hospitsl-removebg-preview_29
+  - first:
+      213: 7136338026806875626
+    second: spritesheet_cute_hospitsl-removebg-preview_30
+  - first:
+      213: -8278899733024449883
+    second: spritesheet_cute_hospitsl-removebg-preview_31
+  - first:
+      213: 7345160316104228829
+    second: spritesheet_cute_hospitsl-removebg-preview_32
+  - first:
+      213: -1742204966536555374
+    second: spritesheet_cute_hospitsl-removebg-preview_33
+  - first:
+      213: -2642580880842472829
+    second: spritesheet_cute_hospitsl-removebg-preview_34
+  - first:
+      213: 7877780988137461914
+    second: spritesheet_cute_hospitsl-removebg-preview_35
+  - first:
+      213: -3851228550758410096
+    second: spritesheet_cute_hospitsl-removebg-preview_36
+  - first:
+      213: 998918060386282086
+    second: spritesheet_cute_hospitsl-removebg-preview_37
+  - first:
+      213: 986089957106779541
+    second: spritesheet_cute_hospitsl-removebg-preview_38
+  - first:
+      213: 1061447787093474684
+    second: spritesheet_cute_hospitsl-removebg-preview_39
+  - first:
+      213: 1276226502151325603
+    second: spritesheet_cute_hospitsl-removebg-preview_40
+  - first:
+      213: 4727808488387908867
+    second: spritesheet_cute_hospitsl-removebg-preview_41
+  - first:
+      213: -8310312916136053827
+    second: spritesheet_cute_hospitsl-removebg-preview_42
+  - first:
+      213: 6983139814481281992
+    second: spritesheet_cute_hospitsl-removebg-preview_43
+  - first:
+      213: 3728429595482303162
+    second: spritesheet_cute_hospitsl-removebg-preview_44
+  - first:
+      213: 4882565063110856450
+    second: spritesheet_cute_hospitsl-removebg-preview_45
+  - first:
+      213: -7056926170369998533
+    second: spritesheet_cute_hospitsl-removebg-preview_46
+  - first:
+      213: -4890212432740446197
+    second: spritesheet_cute_hospitsl-removebg-preview_47
+  - first:
+      213: -8915859440777316202
+    second: spritesheet_cute_hospitsl-removebg-preview_48
+  - first:
+      213: 6619930910523457583
+    second: spritesheet_cute_hospitsl-removebg-preview_49
+  - first:
+      213: 4433816059475170238
+    second: spritesheet_cute_hospitsl-removebg-preview_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4771d2c8e70c07bb0800000000000000
+      internalID: -4940237141475256460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 438
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fed50956400ff30800000000000000
+      internalID: 4607187253060300595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 438
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8655c9c701d2a7c60800000000000000
+      internalID: 7816609652088264040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 438
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacad1a5d9aad19e0800000000000000
+      internalID: -1648974295749251922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 438
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999033874e588af90800000000000000
+      internalID: -6942151609275971175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 438
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c19a993ff52a4a0800000000000000
+      internalID: -6583594205402555233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 438
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305bc074f222d71a0800000000000000
+      internalID: -6810249475063499517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 438
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b6d626157cbc9c0800000000000000
+      internalID: -3905809099456156856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb1e578d2cd40520800000000000000
+      internalID: 2667498967412906952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 376
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a356a354bb3864f70800000000000000
+      internalID: 9171162531530171706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 376
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018cfbcf92f3e9520800000000000000
+      internalID: 2710673475290253328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 376
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9f615e39a02ff50800000000000000
+      internalID: 6913600008287091125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 376
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b73cbf3199379670800000000000000
+      internalID: 8545362113961146288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 376
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c6d53a463fd5250800000000000000
+      internalID: 5935167497507269632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 376
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef159333f955f24e0800000000000000
+      internalID: -2004289166909025794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 376
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3629d0223738b7590800000000000000
+      internalID: -7675396609407085981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32529280ddf3dfc0800000000000000
+      internalID: -3471151815786868166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 314
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f823210b849f7c770800000000000000
+      internalID: 8631141301465789071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 314
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed805550c5e8e350800000000000000
+      internalID: 6046335113972714991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 314
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533f6b73c50786310800000000000000
+      internalID: 1398491225672577845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 314
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b668c16c26ab180800000000000000
+      internalID: -9098851494127047793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 314
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220ed098b222e6da0800000000000000
+      internalID: -5949780487331520478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 314
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092d87376aae953f0800000000000000
+      internalID: -911439448943046000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 314
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf418ac7f51cc560800000000000000
+      internalID: 7335262047078272971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b6007baae2247c0800000000000000
+      internalID: -4088654200949413054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 252
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4013fe502d76e8fa0800000000000000
+      internalID: -5796581518638894844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 252
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a0b8f6207e24090800000000000000
+      internalID: -8051619186137691610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 252
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b7ea20b14e9d880800000000000000
+      internalID: -8585580409944900713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 252
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1e4ddc34c5282a0800000000000000
+      internalID: -6736720646306995727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 252
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0c0941c4f42dc30800000000000000
+      internalID: 4382652575566053620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 252
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae59fec10ad590360800000000000000
+      internalID: 7136338026806875626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 252
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa500a6e807b1d80800000000000000
+      internalID: -8278899733024449883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf30b324604fe560800000000000000
+      internalID: 7345160316104228829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 190
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294daa340d172d7e0800000000000000
+      internalID: -1742204966536555374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 190
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382452b90baa35bd0800000000000000
+      internalID: -2642580880842472829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 190
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9852480210835d60800000000000000
+      internalID: 7877780988137461914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 190
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098d33ba900bd8ac0800000000000000
+      internalID: -3851228550758410096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 190
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aeb05feaedcdd00800000000000000
+      internalID: 998918060386282086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 190
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5950ee9679b4fad00800000000000000
+      internalID: 986089957106779541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 190
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7db45973250bbe00800000000000000
+      internalID: 1061447787093474684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a74ba1fd3116b110800000000000000
+      internalID: 1276226502151325603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305107c65cc8c9140800000000000000
+      internalID: 4727808488387908867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3be55ce66dbac80800000000000000
+      internalID: -8310312916136053827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c34b0bb9a819e060800000000000000
+      internalID: 6983139814481281992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaa6c886fa0eb330800000000000000
+      internalID: 3728429595482303162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f84735e0b52c340800000000000000
+      internalID: 4882565063110856450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3140f88903c01e90800000000000000
+      internalID: -7056926170369998533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b009e4ea3b9722cb0800000000000000
+      internalID: -4890212432740446197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 66
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698b72da311844480800000000000000
+      internalID: -8915859440777316202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 66
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f200167d618bedb50800000000000000
+      internalID: 6619930910523457583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 66
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb39078f634188d30800000000000000
+      internalID: 4433816059475170238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 66
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2552674b0f5a1f499429f3cbab3a424
+      internalID: 1442604801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 66
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63435b837bd3ac342ac08da5593ffad2
+      internalID: -2091409794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 66
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4b8dbaf92288c418c368172c627736
+      internalID: -576863259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2f141cd7486c24da850d14f347ab2f
+      internalID: -318212996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 4
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821bfb7f8abcdb340b7bc4ec9d927586
+      internalID: -2115642487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 4
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7638deb1caf144b40af9f3f11b406260
+      internalID: -884057922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 4
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3df7aeff293c0468d725660db25001
+      internalID: -1533749222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 4
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c306844d7c4ab1d44a6af3e3d5fd05ff
+      internalID: 1476982194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_cute_hospitsl-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 4
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cdb862e26350447aef465027b1f2d5
+      internalID: -1209507562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bcab2574ce355094e9a1fd4739630253
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":8.0},"gridSpriteSize":{"x":62.0,"y":62.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      spritesheet_cute_hospitsl-removebg-preview_0: -4940237141475256460
+      spritesheet_cute_hospitsl-removebg-preview_1: 4607187253060300595
+      spritesheet_cute_hospitsl-removebg-preview_10: 2710673475290253328
+      spritesheet_cute_hospitsl-removebg-preview_11: 6913600008287091125
+      spritesheet_cute_hospitsl-removebg-preview_12: 8545362113961146288
+      spritesheet_cute_hospitsl-removebg-preview_13: 5935167497507269632
+      spritesheet_cute_hospitsl-removebg-preview_14: -2004289166909025794
+      spritesheet_cute_hospitsl-removebg-preview_15: -7675396609407085981
+      spritesheet_cute_hospitsl-removebg-preview_16: -3471151815786868166
+      spritesheet_cute_hospitsl-removebg-preview_17: 8631141301465789071
+      spritesheet_cute_hospitsl-removebg-preview_18: 6046335113972714991
+      spritesheet_cute_hospitsl-removebg-preview_19: 1398491225672577845
+      spritesheet_cute_hospitsl-removebg-preview_2: 7816609652088264040
+      spritesheet_cute_hospitsl-removebg-preview_20: -9098851494127047793
+      spritesheet_cute_hospitsl-removebg-preview_21: -5949780487331520478
+      spritesheet_cute_hospitsl-removebg-preview_22: -911439448943046000
+      spritesheet_cute_hospitsl-removebg-preview_23: 7335262047078272971
+      spritesheet_cute_hospitsl-removebg-preview_24: -4088654200949413054
+      spritesheet_cute_hospitsl-removebg-preview_25: -5796581518638894844
+      spritesheet_cute_hospitsl-removebg-preview_26: -8051619186137691610
+      spritesheet_cute_hospitsl-removebg-preview_27: -8585580409944900713
+      spritesheet_cute_hospitsl-removebg-preview_28: -6736720646306995727
+      spritesheet_cute_hospitsl-removebg-preview_29: 4382652575566053620
+      spritesheet_cute_hospitsl-removebg-preview_3: -1648974295749251922
+      spritesheet_cute_hospitsl-removebg-preview_30: 7136338026806875626
+      spritesheet_cute_hospitsl-removebg-preview_31: -8278899733024449883
+      spritesheet_cute_hospitsl-removebg-preview_32: 7345160316104228829
+      spritesheet_cute_hospitsl-removebg-preview_33: -1742204966536555374
+      spritesheet_cute_hospitsl-removebg-preview_34: -2642580880842472829
+      spritesheet_cute_hospitsl-removebg-preview_35: 7877780988137461914
+      spritesheet_cute_hospitsl-removebg-preview_36: -3851228550758410096
+      spritesheet_cute_hospitsl-removebg-preview_37: 998918060386282086
+      spritesheet_cute_hospitsl-removebg-preview_38: 986089957106779541
+      spritesheet_cute_hospitsl-removebg-preview_39: 1061447787093474684
+      spritesheet_cute_hospitsl-removebg-preview_4: -6942151609275971175
+      spritesheet_cute_hospitsl-removebg-preview_40: 1276226502151325603
+      spritesheet_cute_hospitsl-removebg-preview_41: 4727808488387908867
+      spritesheet_cute_hospitsl-removebg-preview_42: -8310312916136053827
+      spritesheet_cute_hospitsl-removebg-preview_43: 6983139814481281992
+      spritesheet_cute_hospitsl-removebg-preview_44: 3728429595482303162
+      spritesheet_cute_hospitsl-removebg-preview_45: 4882565063110856450
+      spritesheet_cute_hospitsl-removebg-preview_46: -7056926170369998533
+      spritesheet_cute_hospitsl-removebg-preview_47: -4890212432740446197
+      spritesheet_cute_hospitsl-removebg-preview_48: -8915859440777316202
+      spritesheet_cute_hospitsl-removebg-preview_49: 6619930910523457583
+      spritesheet_cute_hospitsl-removebg-preview_5: -6583594205402555233
+      spritesheet_cute_hospitsl-removebg-preview_50: 4433816059475170238
+      spritesheet_cute_hospitsl-removebg-preview_51: 1442604801
+      spritesheet_cute_hospitsl-removebg-preview_52: -2091409794
+      spritesheet_cute_hospitsl-removebg-preview_53: -576863259
+      spritesheet_cute_hospitsl-removebg-preview_54: -318212996
+      spritesheet_cute_hospitsl-removebg-preview_55: -2115642487
+      spritesheet_cute_hospitsl-removebg-preview_56: -884057922
+      spritesheet_cute_hospitsl-removebg-preview_57: -1533749222
+      spritesheet_cute_hospitsl-removebg-preview_58: 1476982194
+      spritesheet_cute_hospitsl-removebg-preview_59: -1209507562
+      spritesheet_cute_hospitsl-removebg-preview_6: -6810249475063499517
+      spritesheet_cute_hospitsl-removebg-preview_7: -3905809099456156856
+      spritesheet_cute_hospitsl-removebg-preview_8: 2667498967412906952
+      spritesheet_cute_hospitsl-removebg-preview_9: 9171162531530171706
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
