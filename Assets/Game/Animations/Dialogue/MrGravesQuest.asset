@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
   npcName: 
   dialogueLines:
-  - 'koff ... kofff..koff..Help me koff.. find medicine koff...
+  - 'khu...khu...khu..Help me khu.. find yellow medicine
 
 '
   textSpeed: 0.05

@@ -738,9 +738,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2076309619}
-        m_TargetAssemblyTypeName: DialogueController, Assembly-CSharp
-        m_MethodName: Next
+      - m_Target: {fileID: 1529010071}
+        m_TargetAssemblyTypeName: NPC, Assembly-CSharp
+        m_MethodName: NextLine
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -31006,6 +31006,63 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1001 &853313832
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 697466564930093657, guid: 95c6d4efe72fcee4696850d0468a2d54, type: 3}
+      propertyPath: m_Name
+      value: AdultMia
+      objectReference: {fileID: 0}
+    - target: {fileID: 8997471727024058314, guid: 95c6d4efe72fcee4696850d0468a2d54, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1625.2349
+      objectReference: {fileID: 0}
+    - target: {fileID: 8997471727024058314, guid: 95c6d4efe72fcee4696850d0468a2d54, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 150.1574
+      objectReference: {fileID: 0}
+    - target: {fileID: 8997471727024058314, guid: 95c6d4efe72fcee4696850d0468a2d54, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8997471727024058314, guid: 95c6d4efe72fcee4696850d0468a2d54, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8997471727024058314, guid: 95c6d4efe72fcee4696850d0468a2d54, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8997471727024058314, guid: 95c6d4efe72fcee4696850d0468a2d54, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8997471727024058314, guid: 95c6d4efe72fcee4696850d0468a2d54, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8997471727024058314, guid: 95c6d4efe72fcee4696850d0468a2d54, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8997471727024058314, guid: 95c6d4efe72fcee4696850d0468a2d54, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8997471727024058314, guid: 95c6d4efe72fcee4696850d0468a2d54, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 95c6d4efe72fcee4696850d0468a2d54, type: 3}
 --- !u!82 &931484168 stripped
 AudioSource:
   m_CorrespondingSourceObject: {fileID: 5997988715243653107, guid: 7a6a5d9f66c9e294f878a4077866da23, type: 3}
@@ -32619,7 +32676,11 @@ MonoBehaviour:
   dialoguePanel: {fileID: 2076309613}
   dialogueText: {fileID: 763065539}
   nametext: {fileID: 1843948907}
+  lockedHint: {fileID: 0}
+  hintDuration: 2
   interactRange: 2
+  showInteractHint: 1
+  hintText: Left click to interact
   onDialogueComplete:
     m_PersistentCalls:
       m_Calls:
@@ -37222,3 +37283,4 @@ SceneRoots:
   - {fileID: 1352863798}
   - {fileID: 1283470249}
   - {fileID: 1051082649}
+  - {fileID: 853313832}

@@ -15,8 +15,8 @@ MonoBehaviour:
   npcName: 
   dialogueLines:
   - (koffing) khu...khu...khu.Huhh.. Thank you!
-  - 'Ok,Mia.When you parents were murderes, the guy in the locked room had been gone
-    without farewell. '
+  - When your parents were murdered, the person in the locked room had already left
+    without saying goodbye.
   - 'He is missing 10 years now.He also wears glasses. He was one of the suspect. '
   - 'I will unlock this room for you. You can investigate his room now. '
   textSpeed: 0.05

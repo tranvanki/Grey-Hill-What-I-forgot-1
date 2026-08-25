@@ -74,9 +74,7 @@ public class GameState : MonoBehaviour
             Debug.Log($"[GameState] Cutscene detected - temporarily disabling electricity state");
             return;
         }
-        
-        // Bỏ qua các scene không phải là gameplay
-        if (scene.name != "MainMenuScene" && scene.name != "LoadingScene")
+                if (scene.name != "MainMenuScene" && scene.name != "LoadingScene")
         {
             SetCheckpoint(scene.name);
             Debug.Log($"[GameState] Auto-saved current scene as checkpoint: {scene.name}");
@@ -101,7 +99,7 @@ public class GameState : MonoBehaviour
     public void SetCheckpoint(string sceneName)
     {
         _data.lastCheckpointScene = sceneName;
-        SaveGame(); // ✅ auto save
+        SaveGame(); 
     }
 
     public void RespawnFromCheckpoint() =>

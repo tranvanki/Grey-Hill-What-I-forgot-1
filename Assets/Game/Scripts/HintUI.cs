@@ -27,8 +27,6 @@ public class HintUI : MonoBehaviour
             GameObject playerGO = GameObject.FindGameObjectWithTag("Player");
             if (playerGO != null) _player = playerGO.transform;
         }
-
-        
         if (_player == null || HintDisplayManager.Instance == null) return;
 
         // calculate distance to player and check if within pickup range

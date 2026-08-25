@@ -2,8 +2,7 @@ using UnityEngine;
 using System.Collections.Generic;
 [System.Serializable]
 public class PieceData
-{
-    public string pieceName;
+{    public string pieceName;
     public Vector3 position;
 }
 [System.Serializable]
@@ -40,8 +39,6 @@ public class SaveData
     public string lastCheckpointScene = "";
     public string previousScene = "";
     public bool hasPuzzleSave = false;
-    
-   
     public bool electricityOut = false;
     public bool elevatorUnlocked = false;
 
@@ -49,5 +46,4 @@ public class SaveData
     public QuestSaveData quests = new QuestSaveData();
     public PlayerStatsSaveData playerStats = new PlayerStatsSaveData();
     public PuzzleSaveData puzzle = new PuzzleSaveData();
-    
 }

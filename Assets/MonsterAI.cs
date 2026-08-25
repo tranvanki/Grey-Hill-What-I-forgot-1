@@ -222,7 +222,6 @@ public class MonsterAI : MonoBehaviour
         GoToNextPatrol();
         isWaiting = false;
     }
-
     void UpdateAnimation()
     {
         Vector2 velocity = new Vector2(agent.velocity.x, agent.velocity.y);

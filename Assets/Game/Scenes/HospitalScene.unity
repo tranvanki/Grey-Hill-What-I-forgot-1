@@ -4184,9 +4184,9 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 721341490}
   - {fileID: 144539651}
   - {fileID: 1511758716}
-  - {fileID: 721341490}
   m_Father: {fileID: 1106777264}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -4546,9 +4546,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1359438020}
-        m_TargetAssemblyTypeName: NPC, Assembly-CSharp
-        m_MethodName: NextLine
+      - m_Target: {fileID: 1359438021}
+        m_TargetAssemblyTypeName: DialogueController, Assembly-CSharp
+        m_MethodName: Next
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5877,7 +5877,11 @@ MonoBehaviour:
   dialoguePanel: {fileID: 514099043}
   dialogueText: {fileID: 1511758717}
   nametext: {fileID: 144539652}
+  lockedHint: {fileID: 0}
+  hintDuration: 2
   interactRange: 2
+  showInteractHint: 1
+  hintText: Left click to interact
   onDialogueComplete:
     m_PersistentCalls:
       m_Calls:

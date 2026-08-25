@@ -34,20 +34,9 @@ public class LockedDoor : MonoBehaviour
     {
         if (player == null)
         {
-            GameObject p = GameObject.FindGameObjectWithTag("Player");
-            if (p != null) player = p.transform;
+            GameObject playerGO = GameObject.FindGameObjectWithTag("Player");
+            if (playerGO != null) player = playerGO.transform;
         }
-
-        _inRange = player != null &&
-            Vector2.Distance(transform.position, player.position) <= interactRange;
-
-        if (_hintTimer > 0f)
-        {
-            _hintTimer -= Time.deltaTime;
-            if (_hintTimer <= 0f && lockedHint != null)
-                lockedHint.SetActive(false);
-        }
-
         if (UnityEngine.InputSystem.Mouse.current == null) return;
         if (!UnityEngine.InputSystem.Mouse.current.leftButton.wasPressedThisFrame) return;
 

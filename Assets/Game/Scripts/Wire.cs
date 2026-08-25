@@ -1,72 +1,69 @@
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Wire : MonoBehaviour
 {
-    [Header("Wire Type Prefabs")]
-    [SerializeField] public GameObject[] wirePrefabs;
+    [Header("Color Settings")]
+    public Color emptyColor = Color.white;
+    public Color filledColor = new Color(1f, 0.8f, 0.2f, 1f);
 
-    [HideInInspector] public int wireType; 
-    [HideInInspector] public bool isFilled; 
-    [HideInInspector] public bool isLocked = false; 
+    [HideInInspector] public bool isLocked = false;
 
-    private List<Transform> connectBoxes = new List<Transform>();
+    private GameObject[] orientations; // các prefab hợp lệ CHO RIÊNG ô này, do Manager cấp
+    private int currentIndex = 0;
+    private int targetIndex = 0;
+    private GameObject currentVisual;
+    private SpriteRenderer mainSprite;
 
-    public void Init(int type)
+    public void Setup(GameObject[] orientationPrefabs, int answerIndex)
     {
-        wireType = type;
-        
-        // Destroy existing children
-        foreach (Transform child in transform)
-        {
-            Destroy(child.gameObject);
-        }
+        orientations = orientationPrefabs;
+        targetIndex = answerIndex;
+        currentIndex = 0;
+        ShowOrientation(0);
+    }
 
-        // Validate type
-        if (type == 0 || type >= wirePrefabs.Length || wirePrefabs[type] == null)
-        {
-            return;
-        }
+    public void SetOrientation(int index)
+    {
+        if (orientations == null || orientations.Length == 0) return;
+        currentIndex = ((index % orientations.Length) + orientations.Length) % orientations.Length;
+        ShowOrientation(currentIndex);
+    }
 
-        // Instantiate visual
-        GameObject wireVisual = Instantiate(wirePrefabs[type], transform);
-        wireVisual.transform.localPosition = Vector3.zero;
-        wireVisual.transform.localRotation = Quaternion.identity;
-        wireVisual.transform.localScale = new Vector3(48f / 99f, 48f / 100f, 1f);
-        // Populate connect boxes (Assuming child 0 is the sprite, and children 1+ are connection points)
-        connectBoxes.Clear();
-        for (int i = 1; i < wireVisual.transform.childCount; i++)
-        {
-            connectBoxes.Add(wireVisual.transform.GetChild(i));
-        }
+    public void RandomizeOrientation()
+    {
+        if (orientations == null || orientations.Length == 0) return;
+        SetOrientation(Random.Range(0, orientations.Length));
     }
 
     public void UpdateInput()
     {
-        if (isLocked) return;
-        transform.Rotate(0, 0, -90f);
+        if (isLocked || orientations == null || orientations.Length == 0) return;
+        currentIndex = (currentIndex + 1) % orientations.Length;
+        ShowOrientation(currentIndex);
     }
 
-    public List<Wire> GetConnectedWires()
+    private void ShowOrientation(int index)
     {
-        List<Wire> result = new List<Wire>();
-        HashSet<Wire> alreadyAdded = new HashSet<Wire>(); 
+        if (currentVisual != null) Destroy(currentVisual);
+        if (orientations == null || index < 0 || index >= orientations.Length) return;
 
-        foreach (Transform box in connectBoxes)
-        {
-            Collider2D[] hits = Physics2D.OverlapCircleAll(box.position, 0.1f);
-        foreach (Collider2D col in hits)
-        {
-            Wire otherWire = col.GetComponentInParent<Wire>();
+        GameObject prefab = orientations[index];
+        if (prefab == null) return;
 
-            if (otherWire != null && otherWire != this && !alreadyAdded.Contains(otherWire))
-            {
-                result.Add(otherWire);
-                alreadyAdded.Add(otherWire);
-            }
-        }
-        }
+        currentVisual = Instantiate(prefab, transform);
+        currentVisual.transform.localPosition = Vector3.zero;
+        currentVisual.transform.localRotation = Quaternion.identity;
+        currentVisual.transform.localScale = Vector3.one; // sprite đã đúng size sẵn từ khi cắt
 
-        return result;
+        mainSprite = currentVisual.GetComponent<SpriteRenderer>();
+        if (mainSprite == null) mainSprite = currentVisual.GetComponentInChildren<SpriteRenderer>();
+        if (mainSprite != null) mainSprite.color = emptyColor;
     }
+
+    public void UpdateColor(bool filled)
+    {
+        if (mainSprite != null)
+            mainSprite.color = filled ? filledColor : emptyColor;
+    }
+    public bool IsCorrect() => currentIndex == targetIndex;
 }

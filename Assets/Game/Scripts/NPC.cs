@@ -16,7 +16,15 @@ public class NPC : MonoBehaviour
     public TMP_Text dialogueText, nametext;
 
     [Header("Interaction ")]
+    private Transform player;
+    public GameObject lockedHint;
+    public float hintDuration = 2f;
     public float interactRange = 2f;
+    private bool _inRange = false;
+    [SerializeField] private bool showInteractHint = true;
+    [SerializeField] private string hintText = "Left click to interact";
+    private GUIStyle _hintStyle;
+    private float _hintTimer;
 
     [Header("Events ")]
     public UnityEvent onDialogueComplete;
@@ -46,7 +54,11 @@ public class NPC : MonoBehaviour
 
         dialoguePanel.SetActive(false);
     }
+    void Start()
+    {
+        if (lockedHint != null) lockedHint.SetActive(false);
 
+    }
     
     public bool CanInteract()
     {
@@ -87,28 +99,79 @@ public class NPC : MonoBehaviour
 
     void Update()
     {
-        if (Mouse.current == null || !Mouse.current.leftButton.wasPressedThisFrame) return;
+        // 1. Find the player if we haven't already
+        if (player == null)
+        {
+            GameObject playerGO = GameObject.FindGameObjectWithTag("Player");
+            if (playerGO != null) player = playerGO.transform;
+        }
 
-        Vector2 mouseWorld = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+        // 2. Update the _inRange variable every frame
+        if (player != null)
+        {
+            float dist = Vector2.Distance(transform.position, player.position);
+            _inRange = (dist <= interactRange);
+        }
+
+        // 3. Handle the Locked Hint timer to hide the hint after a few seconds
+        if (_hintTimer > 0)
+        {
+            _hintTimer -= Time.deltaTime;
+            if (_hintTimer <= 0 && lockedHint != null)
+            {
+                lockedHint.SetActive(false);
+            }
+        }
+
+        // 4. Handle Mouse Clicks
+        if (UnityEngine.InputSystem.Mouse.current == null) return;
+        if (!UnityEngine.InputSystem.Mouse.current.leftButton.wasPressedThisFrame) return;
+
+        Vector2 mouseWorld = Camera.main.ScreenToWorldPoint(
+            UnityEngine.InputSystem.Mouse.current.position.ReadValue());
         Collider2D[] hits = Physics2D.OverlapPointAll(mouseWorld);
 
-        bool clickedMe = false;
-        foreach (var h in hits)
-            if (h.gameObject == gameObject) { clickedMe = true; break; }
-
-        if (!clickedMe) return;
-
-        GameObject player = GameObject.FindWithTag("Player");
-        if (player == null) return;
-
-        float dist = Vector2.Distance(transform.position, player.transform.position);
-        if (dist > interactRange) return;
-
-        Interact();
+        foreach (Collider2D hit in hits)
+        {
+            if (hit.gameObject == gameObject)
+            {
+                if (_inRange)
+                {
+                    Interact();
+                }
+                else
+                {
+                    Debug.Log($"[NPC] Player clicked on NPC '{gameObject.name}' but is out of range.");
+                }
+                break;
+            }
+        }
     }
-
-    public void NextLine()
+//GUI function
+private void OnGUI()
     {
+        if (!showInteractHint || !_inRange) return;
+        if (Camera.main == null) return;
+
+        if (_hintStyle == null)
+        {
+            _hintStyle = new GUIStyle(GUI.skin.box);
+            _hintStyle.fontSize = 18;
+            _hintStyle.fontStyle = FontStyle.Bold;
+            _hintStyle.normal.textColor = Color.white;
+            _hintStyle.alignment = TextAnchor.MiddleCenter;
+        }
+
+        Vector3 screenPos = Camera.main.WorldToScreenPoint(transform.position + Vector3.up * 0.6f);
+        if (screenPos.z < 0f) return;
+
+        float w = 200f, h = 36f;
+        Rect rect = new Rect(screenPos.x - w / 2f, Screen.height - screenPos.y - h, w, h);
+        GUI.Box(rect, hintText, _hintStyle);
+    }
+    public void NextLine()
+    {   
+         Debug.Log($"[NPC] NextLine called. isTyping = {isTyping}");
         // Safety check
     if (activeDialogue == null || activeDialogue.dialogueLines == null)
     {

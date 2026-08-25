@@ -165,80 +165,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ElectricBoardManager
   cellPrefab: {fileID: 511062520774261223, guid: 31abef2baa504e54895054b2d697132a, type: 3}
-  cellSetups:
-  - row: 2
-    col: 0
-    orientationPrefabs:
-    - {fileID: 6625028125687148092, guid: f985307d6be1ffb49a20911945c86f5a, type: 3}
-    - {fileID: 5167784495413765554, guid: 24a340570681cc64c886dc2705e83d2f, type: 3}
-    answerIndex: 0
-    locked: 1
-  - row: 2
-    col: 4
-    orientationPrefabs:
-    - {fileID: 6716211743054163292, guid: 47046d5f0293f09428512ec3b9d7c97a, type: 3}
-    answerIndex: 0
-    locked: 1
-  - row: 0
-    col: 0
-    orientationPrefabs: []
-    answerIndex: 0
-    locked: 0
-  - row: 0
-    col: 0
-    orientationPrefabs: []
-    answerIndex: 0
-    locked: 0
-  - row: 0
-    col: 0
-    orientationPrefabs: []
-    answerIndex: 0
-    locked: 0
-  - row: 0
-    col: 0
-    orientationPrefabs: []
-    answerIndex: 0
-    locked: 0
-  - row: 0
-    col: 0
-    orientationPrefabs: []
-    answerIndex: 0
-    locked: 0
-  - row: 0
-    col: 0
-    orientationPrefabs: []
-    answerIndex: 0
-    locked: 0
-  - row: 0
-    col: 0
-    orientationPrefabs: []
-    answerIndex: 0
-    locked: 0
-  - row: 0
-    col: 0
-    orientationPrefabs: []
-    answerIndex: 0
-    locked: 0
-  - row: 0
-    col: 0
-    orientationPrefabs: []
-    answerIndex: 0
-    locked: 0
-  - row: 0
-    col: 0
-    orientationPrefabs: []
-    answerIndex: 0
-    locked: 0
-  - row: 0
-    col: 0
-    orientationPrefabs: []
-    answerIndex: 0
-    locked: 0
-  - row: 0
-    col: 0
-    orientationPrefabs: []
-    answerIndex: 0
-    locked: 0
 --- !u!1 &90376623
 GameObject:
   m_ObjectHideFlags: 0
@@ -470,7 +396,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.4117647, g: 0.4117647, b: 0.4117647, a: 1}
+  m_BackGroundColor: {r: 0.3, g: 0.3, b: 0.3, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0

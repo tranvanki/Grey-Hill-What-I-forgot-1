@@ -105,6 +105,12 @@ public class Elevator : MonoBehaviour, IPointerDownHandler
                 SFXManager.Instance.PlaySFX(SFXManager.SFXType.PowerDown);
             }
         }
+        else if(state.ElevatorUnlocked)
+        {
+            Debug.Log("[Elevator] Elevator is unlocked! Loading next scene...", this);
+            SceneManager.LoadScene("Corrider_Left"); // Replace with your actual scene name
+        }
+        
         else
         {
             Debug.Log("[Elevator] Power is out! Fix the electrical system first.", this);
